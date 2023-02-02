@@ -11,5 +11,5 @@ while True:
     elif senha.isalnum():
         print("necessita de um Caractere especial: ")
     else:
-        print("senha aceita com sucesso!")
+        print("senha aceita com sucesso 1!")
         break
